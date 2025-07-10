@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If AntiHash has helped secure your server, consider:
 - ⭐ Starring this repository
 - 🐦 Sharing with the Minecraft community
-- 💰 [Supporting development](https://github.com/sponsors/yourusername)
+- 💰 [Supporting development](https://github.com/sponsors/eleboy1112)
 
 ---
 
