@@ -241,7 +241,7 @@ If AntiHash has helped secure your server, consider:
 
 - 📧 **Email**: antihashplugin@gmail.com
 - 💬 **Discord**: [Join our community](https://discord.gg/mugcNHKDqB)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/AntiHash/issues)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/eleboy1112/AntiHash/issues)
 
 ---
 
